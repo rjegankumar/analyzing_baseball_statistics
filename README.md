@@ -1,5 +1,7 @@
 # Analyzing Baseball Statistics
 
+![](proj_img.jpg)
+
 [Lahman's Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/) is a database containing statistics of batting, pitching, fielding etc. compiled by Sean Lahman, a renowned journalist. I have used several Python modules like Pandas, Numpy, Matplotlib, Seaborn to explore and analyze this dataset, and ended up answering some questions I came up with.
 
 ## Files and folders
